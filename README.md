@@ -4,6 +4,14 @@
 
 This project is a chat application built using React, Redux, and Appwrite. It provides real-time messaging functionality and enables users to communicate seamlessly in a chat environment. Appwrite is utilized for backend services, including user authentication, data storage, and real-time messaging capabilities.
 
+## Demo Project
+
+
+
+Uploading Vite + React - Google Chrome 2024-04-20 14-08-47.mp4…
+
+
+
 <img width="1057" alt="image" src="https://github.com/princekumarg/chating-app/assets/86905668/090f5a4f-f8ec-4969-aa07-29c23b9d97f0">
 
 ## Key Features
