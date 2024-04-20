@@ -6,11 +6,7 @@ This project is a chat application built using React, Redux, and Appwrite. It pr
 
 ## Demo Project
 
-
-
-Uploading Vite + React - Google Chrome 2024-04-20 14-08-47.mp4…
-
-
+https://github.com/princekumarg/chating-app/assets/86905668/8673038d-b712-45c6-85e8-c81b7b150c09
 
 <img width="1057" alt="image" src="https://github.com/princekumarg/chating-app/assets/86905668/090f5a4f-f8ec-4969-aa07-29c23b9d97f0">
 
